@@ -1,0 +1,24 @@
+.wrapper{
+  border-radius: 25px;
+  background: aqua
+}
+.score{
+  padding: 20px; 
+}
+.app_title{
+  text-align: center;
+ 
+}
+.coolFont{
+  font-family: 'Permanent Marker', cursive;
+}
+.vt{
+  font-family: 'VT323', monospace;
+  color: rgb(67, 205, 67)
+}
+body{
+  background-color: rgb(48, 48, 48)
+}
+#hd{
+  background-color: rgb(48, 48, 48)
+}
