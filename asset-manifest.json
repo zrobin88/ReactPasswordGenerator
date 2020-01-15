@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactPasswordGenerator/static/css/main.98c99258.chunk.css",
-    "main.js": "/ReactPasswordGenerator/static/js/main.d2a83672.chunk.js",
-    "main.js.map": "/ReactPasswordGenerator/static/js/main.d2a83672.chunk.js.map",
-    "runtime-main.js": "/ReactPasswordGenerator/static/js/runtime-main.06d71710.js",
-    "runtime-main.js.map": "/ReactPasswordGenerator/static/js/runtime-main.06d71710.js.map",
-    "static/js/2.20584b2f.chunk.js": "/ReactPasswordGenerator/static/js/2.20584b2f.chunk.js",
-    "static/js/2.20584b2f.chunk.js.map": "/ReactPasswordGenerator/static/js/2.20584b2f.chunk.js.map",
-    "index.html": "/ReactPasswordGenerator/index.html",
-    "precache-manifest.4d6df388d81fcfd3b713f01acf7413cb.js": "/ReactPasswordGenerator/precache-manifest.4d6df388d81fcfd3b713f01acf7413cb.js",
-    "service-worker.js": "/ReactPasswordGenerator/service-worker.js",
-    "static/css/main.98c99258.chunk.css.map": "/ReactPasswordGenerator/static/css/main.98c99258.chunk.css.map",
-    "static/js/2.20584b2f.chunk.js.LICENSE": "/ReactPasswordGenerator/static/js/2.20584b2f.chunk.js.LICENSE"
+    "main.css": "/ReactPasswordGenerator/gi/static/css/main.98c99258.chunk.css",
+    "main.js": "/ReactPasswordGenerator/gi/static/js/main.d2a83672.chunk.js",
+    "main.js.map": "/ReactPasswordGenerator/gi/static/js/main.d2a83672.chunk.js.map",
+    "runtime-main.js": "/ReactPasswordGenerator/gi/static/js/runtime-main.e18038ce.js",
+    "runtime-main.js.map": "/ReactPasswordGenerator/gi/static/js/runtime-main.e18038ce.js.map",
+    "static/js/2.20584b2f.chunk.js": "/ReactPasswordGenerator/gi/static/js/2.20584b2f.chunk.js",
+    "static/js/2.20584b2f.chunk.js.map": "/ReactPasswordGenerator/gi/static/js/2.20584b2f.chunk.js.map",
+    "index.html": "/ReactPasswordGenerator/gi/index.html",
+    "precache-manifest.98cee041148bd208154d7a4bda6b562d.js": "/ReactPasswordGenerator/gi/precache-manifest.98cee041148bd208154d7a4bda6b562d.js",
+    "service-worker.js": "/ReactPasswordGenerator/gi/service-worker.js",
+    "static/css/main.98c99258.chunk.css.map": "/ReactPasswordGenerator/gi/static/css/main.98c99258.chunk.css.map",
+    "static/js/2.20584b2f.chunk.js.LICENSE": "/ReactPasswordGenerator/gi/static/js/2.20584b2f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.06d71710.js",
+    "static/js/runtime-main.e18038ce.js",
     "static/js/2.20584b2f.chunk.js",
     "static/css/main.98c99258.chunk.css",
     "static/js/main.d2a83672.chunk.js"
